@@ -5,4 +5,6 @@ SUBDIRS += \
     CoordinateSetter \
     SettingsViewer \
     TeamLeaders \
-    ColorNames
+    ColorNames \
+    Currency \
+    Cities
